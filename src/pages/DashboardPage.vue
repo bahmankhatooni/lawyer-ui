@@ -1,11 +1,10 @@
-<script setup lang="ts">
+<template>
 
+  <div class="q-pa-md flex flex-center bg-blue-2" style="height: 100vh">
+        <div class="text-h6">صفحه داشبورد</div>
+  </div>
+
+</template>
+<script setup lang="ts">
 </script>
 
-<template>
-  $END$
-</template>
-
-<style scoped>
-
-</style>
